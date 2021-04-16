@@ -17,7 +17,7 @@
 		 
       </div>
     </div>
-    </section>
+</section>
 
   <div class="container">  
 
